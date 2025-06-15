@@ -4,7 +4,7 @@
 
 ## 📋 Project Overview
 
-CodeCotton is a responsive e-commerce platform focused on sustainable fashion for the entire family. This project was developed as the final project for the Web Programming course in the Front-End Development program.
+CodeCotton is a responsive e-commerce platform focused on sustainable fashion for the entire family. This project was developed as the final project for the Web Programming course in the Front-End Development program at CESAE.
 
 ## ✨ Features
 
